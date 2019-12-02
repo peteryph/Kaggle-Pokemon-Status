@@ -22,7 +22,6 @@ Contributing
 
 Authors
 	•	peteryph
-	•	
+
 Acknowledgments
 	•	Dataset - https://www.kaggle.com/abcsds/pokemon
-	
