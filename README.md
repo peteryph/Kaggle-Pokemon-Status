@@ -3,9 +3,6 @@ This is the project is analysing the  Pokemon status from Kaggle provided datase
 The project use the different machine learning models to analyse and determinate whether a given Pokemon is legendary or not 
 
 
-Getting Started
-These instructions will get you a copy of the project up and running on your local machine for development and testing purposes. See deployment for notes on how to deploy the project on a live system.
-
 Prerequisites
 - Python 3.6
 
